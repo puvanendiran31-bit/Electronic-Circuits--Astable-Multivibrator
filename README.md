@@ -47,4 +47,4 @@ PC with LT Spice software
 <img width="1887" height="995" alt="Screenshot 2025-12-01 101035" src="https://github.com/user-attachments/assets/f304f70b-e02d-4e81-a1ac-2e99b417015d" />
 
 ## RESULT:
-![Image 2025-12-01 at 10 18 26_d4f91043](https://github.com/user-attachments/assets/1b81eb05-d778-4d25-9e5e-2a7e2147d4a2)
+<img width="1004" height="1280" alt="WhatsApp Image 2026-06-15 at 5 36 47 PM" src="https://github.com/user-attachments/assets/b6765644-7088-4084-ba06-cd3e24619e63" />
